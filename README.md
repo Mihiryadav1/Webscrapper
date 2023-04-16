@@ -11,3 +11,4 @@
 # How to run the projects?
 #### Simply clone the project and get all the files from this repository.  Run the Javascript file on your CodeEditor .
 
+<img src="./screenshot.png" alt="Employee data" title="Employee Data title">
