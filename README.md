@@ -4,3 +4,6 @@
 # Puppeteer
 ### [Puppeteer](https://pptr.dev/)
 #### This JavaScript library helps to webscrap various things from the website. It is easy to use and quite dynamic to handle desired tasks.
+
+# Resources
+#### (PedroTech)[https://youtube.com/playlist?list=PLpPqplz6dKxUcQvYnLT9DDRwmPbs-xDuu]
