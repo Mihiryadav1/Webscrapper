@@ -9,5 +9,4 @@
 #### [PedroTech](https://youtube.com/playlist?list=PLpPqplz6dKxUcQvYnLT9DDRwmPbs-xDuu)
 
 # How to run the projects?
-#### Simply clone the project and get all the files from this repository.
-#### Run the Javascript file on your CodeEditor .
+#### Simply clone the project and get all the files from this repository.  Run the Javascript file on your CodeEditor .
